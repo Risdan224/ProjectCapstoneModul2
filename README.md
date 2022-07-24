@@ -1,5 +1,5 @@
 # Data Analitic Using Python Libraries : Film Rental Studio
-### Project Capstone Modul 2
+### Purwadhika Project: Project Capstone Modul 2
 
 About : Analysis of the Sakila database (dummy) with a focus on film rental.
 
