@@ -1,17 +1,17 @@
 # Data Analitic Using Python Libraries : Film Rental Studio
 # Project Capstone Modul 2
 
-Analisis mengenai database Sakila dengan fokus analisa kepada data film, sebagai pemenuhan Project Capstone Modul 2 Purwadhika.
+About : Analysis of the Sakila database (dummy) with a focus on film rental.
 
-## Konteks Soal:
-Sebuah toko yang menyediakan layanan sewa DVD ingin mengetahui secara umum gambaran bisnis yang telah berjalan dengan fokus utamanya yaitu jenis film yang disewakan toko tersebut. Pemilik toko ingin mendapatkan insight bagaimana meningkatkan kepuasan pelanggan dan menaikkan keuntungan toko dengan cara menyediakan jenis film yang tepat pada consumer yang tepat.
+## Problem Statement:
+A shop that provides DVD rental services wants to know overview of the business that has been running, with focusing in the films. Store owners want to gain insight on how to increase customer satisfaction and increase store profits by providing the right types of films to the right consumers.
 
-## Isi Notebook:
-1. Mengimport library dan data melalui SQL Database
-2. Pembersihan data dari anomali (Missing Values, Wrong Datatype, Oulier)
+## Contents:
+1. Importing libraries and data via SQL Database
+2. Handling Anomalies (Missing Values, Wrong Datatype, Oulier)
 3. Feature Engineering
-4. Visualisasi data berdasarkan konteks bisnis
-5. Uji Statistik
+4. Visualizations
+5. Statistical Test
 
 ## Link Tablue Public:
 https://public.tableau.com/app/profile/risdan/viz/PenyewaanFilmSakila/DataPenyewaanFilmSakila?publish=yes
